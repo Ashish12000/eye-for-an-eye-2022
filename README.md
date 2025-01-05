@@ -6,10 +6,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-
-# GitHub Pages
-
-Eye for an Eye (2022): A Gripping Martial Arts Journey of Vengeance and Justice – Everything You Need to Know!
+**"Eye for an Eye (2022): A Gripping Martial Arts Journey of Vengeance and Justice – Everything You Need to Know!"**
 
 </header>
 
