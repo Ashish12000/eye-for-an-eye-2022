@@ -9,7 +9,7 @@
 
 # GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+Eye for an Eye (2022): A Gripping Martial Arts Journey of Vengeance and Justice – Everything You Need to Know!
 
 </header>
 
@@ -21,24 +21,25 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Enable GitHub Pages
+Wondering how to Watch Eye for an Eye (2022) Online? We’ve got all the details on the latest streaming info!
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+Eye for an Eye takes viewers on a wild ride with Cheng Xiazi, a blind bounty hunter seeking justice. This Chinese martial arts film follows Cheng as he teams up with Ni Yan, a survivor of a family massacre, to seek vengeance.
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+Release Date: 2022 (Worldwide)
 
-### :keyboard: Activity: Enable GitHub Pages
+Director: Yang Bingjia
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+Distributed by: Sony Pictures
 
-<footer>
+Based on: Action, Drama, Martial Arts
+
+Budget: $1.2 million
+
+Edited by: Mark Sanger
+
+Eye for an Eye Review
+Action-packed and emotional, this martial arts movie is filled with intense fight scenes and a gripping storyline. It delves into themes of justice, revenge, and redemption, making it a must-watch for martial arts fans.
+
 
 <!--
   <<< Author notes: Footer >>>
